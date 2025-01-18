@@ -15,7 +15,7 @@ int main()
 		}
 		for(int k =1 ; k<=i ; k++)
 		{
-			cout <<"*" ;
+			cout << k  ;
 		}
 		
 		cout << endl ;
